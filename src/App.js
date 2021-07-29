@@ -20,6 +20,9 @@ function Info(){
       {title}
       <h1>Inventory Management </h1>
       <p>Manage your stuffs</p>
+
+      <p>Hello World</p>
+
       <Info />
     </div>
   );
